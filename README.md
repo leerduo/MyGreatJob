@@ -65,4 +65,7 @@
 > * 一月十七号
 
 * 阅读文档，[如何从UA分辨出Android设备类型](http://droidyue.com/blog/2014/08/05/detect-android-device-type-by-sniffing-user-agent/)
+* 阅读文档，[BlockCanary — 轻松找出Android App界面卡顿元凶 ](http://blog.zhaiyifan.cn/2016/01/16/BlockCanaryTransparentPerformanceMonitor/)
+
+这篇文章作者将这个工具如何检测Android App界面卡顿的原理分析的很细，但是这个工具目前只在阿里内部使用，希望尽快能够开源给大家使用。另外，作者的其他文章也很不错。
 
