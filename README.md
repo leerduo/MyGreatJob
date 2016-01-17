@@ -50,5 +50,18 @@
 
 * 公司软件培训第五天
 
+> * 一月十五号
 
+* 公司软件培训第六天
+培训的第六天，也是培训的最后一天，主要是考核，考核的题目发现网上能查到，我这里复制了一份。链接在[这里](https://github.com/leerduo/Exam_C_IsFileLinked/blob/master/README.md)
+
+虽然基本上大家都做出来，但是写的代码还是很挫，可以尝试用红黑树去实现。
+
+> * 一月十六号
+
+* 公司迎新
+
+> * 一月十七号
+
+* 阅读文档，[如何从UA分辨出Android设备类型](http://droidyue.com/blog/2014/08/05/detect-android-device-type-by-sniffing-user-agent/)
 
