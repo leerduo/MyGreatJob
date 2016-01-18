@@ -73,5 +73,11 @@
 
 * 小论文通过，投稿了。
 * 一点小的总结，网络请求：AsyncHttpClient,Volley,okhttp,retrofit;数据库：realm,ormlite,greendao;图片缓存：Picasso，glide,fresco;Json解析：gson,fastjson.jackson;通信：otto,eventbus;  mvp+dagger2+rxjava+retrofit重构项目。
-* 
+* [百度的一个人的博客](http://dodola.github.io/)
+* [安卓App热补丁动态修复框架](https://github.com/dodola/HotFix)
+* [Android瀑布流实例](https://github.com/dodola/android_waterfall)
+* [A 2d metaball loading](https://github.com/dodola/MetaballLoading)
+* [泰捷视频loading](https://github.com/dodola/TogicLoading)
+* [一个检测Anr异常的代码](https://github.com/leerduo/AnrWatcher/blob/master/README.md)
+* [仿苹果表应用表盘界面](https://github.com/dodola/BubbleCloudView)
 
