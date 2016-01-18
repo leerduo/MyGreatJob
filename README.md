@@ -69,3 +69,9 @@
 
 这篇文章作者将这个工具如何检测Android App界面卡顿的原理分析的很细，但是这个工具目前只在阿里内部使用，希望尽快能够开源给大家使用。另外，作者的其他文章也很不错。
 
+> * 一月十八号
+
+* 小论文通过，投稿了。
+* 一点小的总结，网络请求：AsyncHttpClient,Volley,okhttp,retrofit;数据库：realm,ormlite,greendao;图片缓存：Picasso，glide,fresco;Json解析：gson,fastjson.jackson;通信：otto,eventbus;  mvp+dagger2+rxjava+retrofit重构项目。
+* 
+
