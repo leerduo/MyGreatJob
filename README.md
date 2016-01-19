@@ -84,4 +84,5 @@
 > * 一月十九号
 
 * 读文档[Android内存分析工具 ](http://blog.csdn.net/xu_fu/article/details/45678373)
+* [可视化的layout编辑窗口](http://labs.udacity.com/android-visualizer/#/android/sandbox)
 * 
