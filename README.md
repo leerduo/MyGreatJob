@@ -81,3 +81,7 @@
 * [一个检测Anr异常的代码](https://github.com/leerduo/AnrWatcher/blob/master/README.md)
 * [仿苹果表应用表盘界面](https://github.com/dodola/BubbleCloudView)
 
+> * 一月十九号
+
+* 读文档[Android内存分析工具 ](http://blog.csdn.net/xu_fu/article/details/45678373)
+* 
