@@ -85,4 +85,4 @@
 
 * 读文档[Android内存分析工具 ](http://blog.csdn.net/xu_fu/article/details/45678373)
 * [可视化的layout编辑窗口](http://labs.udacity.com/android-visualizer/#/android/sandbox)
-* 
+* [Goole官方关于Android performance工具的文档](https://docs.google.com/document/d/1EKVq2FzcLVJFbwUtaC3QRddSwtzs0BSKZahkQyeGyHo/pub?embedded=true)
