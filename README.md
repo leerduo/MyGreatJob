@@ -96,7 +96,7 @@
 * [ArticleTranslateProject](weeklyandroid翻译)
 * [交大的一个做Android的个人博客](http://wingjay.com/archives/)
 * [app-theme-engine_更换APP主题](https://github.com/afollestad/app-theme-engine)
-
+* [写了关于AndroidRuntimePermission的文章](https://github.com/leerduo/PermissionsDemo/blob/master/README.md)
 
 
 
