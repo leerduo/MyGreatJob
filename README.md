@@ -91,6 +91,10 @@
 > * 一月二十号
 
 * [RxAndroid基础知识](https://github.com/SpikeKing/TestDetailRxAndroid)
+* [自定义控件_CircleLayout](https://github.com/francoiscampbell/CircleLayout)
+* [微信res目录的保护_开源库_AndResGuard](https://github.com/leerduo/AndResGuard)
+* [ArticleTranslateProject](weeklyandroid翻译)
+* [交大的一个做Android的个人博客](http://wingjay.com/archives/)
 * 
 
 
