@@ -87,3 +87,12 @@
 * [可视化的layout编辑窗口](http://labs.udacity.com/android-visualizer/#/android/sandbox)
 * [Goole官方关于Android performance工具的文档](https://docs.google.com/document/d/1EKVq2FzcLVJFbwUtaC3QRddSwtzs0BSKZahkQyeGyHo/pub?embedded=true)
 * Android Runtime permissions的处理  [参考这里](https://blog.stylingandroid.com/permissions-part-3/)
+
+> * 一月二十号
+
+* [RxAndroid基础知识](https://github.com/SpikeKing/TestDetailRxAndroid)
+* 
+
+
+
+
