@@ -107,6 +107,7 @@
 
 * [Yalantis的uCrop-Image Cropping Library for Android](https://github.com/Yalantis/uCrop)
 * BlockCanary研究。
+* [Awesome-Android-Architecture](https://github.com/Juude/Awesome-Android-Architecture)
 
 
 
