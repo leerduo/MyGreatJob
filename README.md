@@ -98,8 +98,15 @@
 * [app-theme-engine_更换APP主题](https://github.com/afollestad/app-theme-engine)
 * [写了关于AndroidRuntimePermission的文章](https://github.com/leerduo/PermissionsDemo/blob/master/README.md)
 
-> * 一月21号
+> * 一月二十一号
 
 * LeakCanary研究
 * [Android内存泄露总结](http://yq.aliyun.com/articles/3009)
+
+> * 一月二十二号
+
+* [Yalantis的uCrop-Image Cropping Library for Android](https://github.com/Yalantis/uCrop)
+* 
+
+
 
