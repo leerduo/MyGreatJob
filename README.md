@@ -109,13 +109,14 @@
 * BlockCanary研究。
 * [Awesome-Android-Architecture](https://github.com/Juude/Awesome-Android-Architecture)
 
-----------
 
-<i class="icon-cloud"></i> 寒假。。。。
+# 寒假
 
-----------
+> * 看完了《伪装者》和《琅琊榜》两部很棒的电视剧，看了Android艺术探索，人生的最后一个寒假。(人生最痛苦的事情莫过于没钱的日子寒假却很长，今年得抓紧时间赚钱了，父母的身体一年不如一年。)
+
 
 # 二月份
 
-> 二月二十二
+> 二月二十二(元宵)
+
 
