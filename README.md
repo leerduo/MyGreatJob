@@ -144,4 +144,6 @@
 * [国外人的blog](http://blog.robinchutaux.com/)
 * [知乎日报客户端](https://github.com/cundong/ZhihuPaper)
 * [不错的项目，值得学习](https://github.com/byoutline/kickmaterial)
+* [PdfViewPager](https://github.com/voghDev/PdfViewPager)
+* [dodola_Gitbook](https://github.com/dodola/Gitbook)
 
