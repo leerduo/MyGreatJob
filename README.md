@@ -143,4 +143,5 @@
 * [模仿Path的Dialog特效动画](https://github.com/xfmax/BaseDialog)
 * [国外人的blog](http://blog.robinchutaux.com/)
 * [知乎日报客户端](https://github.com/cundong/ZhihuPaper)
+* [不错的项目，值得学习](https://github.com/byoutline/kickmaterial)
 
