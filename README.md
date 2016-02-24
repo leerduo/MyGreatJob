@@ -117,7 +117,7 @@
 
 # 二月份
 
-> * 二月二十二(元宵)
+> * 二月二十二号(元宵)
 
 * [天气预报app_MD风格_Retrofit_RXJava_RxAndroid](https://github.com/xcc3641/SeeWeather)
 * [国外一个介绍Retrofit&Dagger2&Rxjava系列的博客](http://saulmm.github.io/)
@@ -130,4 +130,16 @@
 * [CoolAndroidAnim](https://github.com/TomWithJerry/CoolAndroidAnim)
 * [CRAudioVisualizationView](https://github.com/Cleveroad/CRAudioVisualizationView)
 * [ShapableLoadingView](https://github.com/chaossss/ShapableLoadingView)
-* 
+
+> * 二月二十三号
+
+* 休息
+
+> * 二月二十四号
+
+* [Swipecards](https://github.com/Diolor/Swipecards)
+* [SwipeCardView](https://github.com/xiepeijie/SwipeCardView)
+* [android-material-chips](https://github.com/DoodleScheduling/android-material-chips)
+* [模仿Path的Dialog特效动画](https://github.com/xfmax/BaseDialog)
+* [国外人的blog](http://blog.robinchutaux.com/)
+
