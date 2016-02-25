@@ -162,3 +162,5 @@
   The official ribot app for android. It follows the architecture, tools and guidelines that we use when developing for the Android   platform (https://github.com/ribot/android-guidelines)
   
 * [ribot_android-guidelines(※)](https://github.com/ribot/android-guidelines)
+* [an Android library for showing a game hidden inside an pull-to-refresh layout.](https://github.com/FauDroids/Bored-Rudolf)
+* 
