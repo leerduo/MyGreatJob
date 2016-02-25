@@ -157,4 +157,5 @@
 * [CircleProgress](https://github.com/Fichardu/CircleProgress)
 * [从四个小球的 不同的组合动画(包括了缩放,旋转,移动,变色等)演变成loading字样的效果.](https://github.com/TomWithJerry/CoolAndroidAnim)
 * [ribot app Android](https://github.com/ribot/ribot-app-android)
+
   The official ribot app for android. It follows the architecture, tools and guidelines that we use when developing for the Android   platform (https://github.com/ribot/android-guidelines)
