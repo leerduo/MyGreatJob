@@ -163,4 +163,13 @@
   
 * [ribot_android-guidelines(※)](https://github.com/ribot/android-guidelines)
 * [an Android library for showing a game hidden inside an pull-to-refresh layout.](https://github.com/FauDroids/Bored-Rudolf)
+* [ShowcaseView_Highlight the best bits of your app to users quickly, simply, and cool](https://github.com/amlcurran/ShowcaseView)
+* [干货集中营客户端(※)](https://github.com/dongjunkun/GanK)
+* [DropDownMenu](https://github.com/dongjunkun/DropDownMenu)
+* [BannerLayout_轮播图](https://github.com/dongjunkun/BannerLayout)
+* [miaojiedemo_通过RecyclerView实现喵街首页View滑动折叠效果](https://github.com/dongjunkun/miaojiedemo)
+* [crop-image-layout](https://github.com/yulu/crop-image-layout)
+* [ShaderFilter_好玩的图片处理特效(※)](https://github.com/yulu/ShaderFilter)
+* [dialogplus_Advanced dialog solution for android](https://github.com/orhanobut/dialogplus)
+* [BottomSheets](https://github.com/android-cjj/BottomSheets)
 * 
