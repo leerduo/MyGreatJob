@@ -147,3 +147,14 @@
 * [PdfViewPager](https://github.com/voghDev/PdfViewPager)
 * [dodola_Gitbook](https://github.com/dodola/Gitbook)
 
+> * 二月二十五号
+
+* [An Android NFC-App for reading, writing, analysing, etc. Mifare Classic RFID-Tags.](https://github.com/ikarus23/MifareClassicTool)
+* [custom dialog attached at the bottom](https://github.com/rebus007/BottomDialog)
+* [TimelineView_很赞的自定义View(※)](https://github.com/alorma/TimelineView)
+* [很不错的github的客户端(※)](https://github.com/gitskarios/Gitskarios)
+* [支持addHeaderView、 addFooterView、分页加载的RecyclerView解决方案](https://github.com/cundong/HeaderAndFooterRecyclerView)
+* [CircleProgress](https://github.com/Fichardu/CircleProgress)
+* [从四个小球的 不同的组合动画(包括了缩放,旋转,移动,变色等)演变成loading字样的效果.](https://github.com/TomWithJerry/CoolAndroidAnim)
+* [ribot app Android](https://github.com/ribot/ribot-app-android)
+  The official ribot app for android. It follows the architecture, tools and guidelines that we use when developing for the Android   platform (https://github.com/ribot/android-guidelines)
