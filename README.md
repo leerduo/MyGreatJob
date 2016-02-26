@@ -172,4 +172,15 @@
 * [ShaderFilter_好玩的图片处理特效(※)](https://github.com/yulu/ShaderFilter)
 * [dialogplus_Advanced dialog solution for android](https://github.com/orhanobut/dialogplus)
 * [BottomSheets](https://github.com/android-cjj/BottomSheets)
-* 
+
+> * 二月二十六号
+
+* [textfairy_Android OCR App](https://github.com/renard314/textfairy)
+* [BGAFlowLayout-Android_Android流式布局](https://github.com/bingoogolapple/BGAFlowLayout-Android)
+* [jlog_log工具](https://github.com/JiongBull/jlog)
+* [NetGuard_Android网络的app，类似于360的那种网络管理(※)](https://github.com/M66B/NetGuard)
+* [AndroidBadgedImageView_视频或者图片加水印](https://github.com/klinker24/Android-BadgedImageView)
+* [Talon-for-Twitter_Twitter的三方客户端(※)](https://github.com/klinker24/Talon-for-Twitter)
+* [Android-TextView-LinkBuilder](https://github.com/klinker24/Android-TextView-LinkBuilder)
+
+
