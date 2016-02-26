@@ -182,5 +182,14 @@
 * [AndroidBadgedImageView_视频或者图片加水印](https://github.com/klinker24/Android-BadgedImageView)
 * [Talon-for-Twitter_Twitter的三方客户端(※)](https://github.com/klinker24/Talon-for-Twitter)
 * [Android-TextView-LinkBuilder](https://github.com/klinker24/Android-TextView-LinkBuilder)
+* [slidingtutorial-android](https://github.com/Cleveroad/slidingtutorial-android)
+* [CRAndroidMBootAnimationView](https://github.com/Cleveroad/CRAndroidMBootAnimationView)
+* [Android-Toggle-Switch](https://github.com/BelkaLab/Android-Toggle-Switch)
+* [YLListView_仿IOS弹簧效果的ListView](https://github.com/yll2wcf/YLListView)
+* [AndroidBottomSheet](https://github.com/michael-rapp/AndroidBottomSheet)
+* [android-tagview_Android library for creating beautiful tags for your content.](https://github.com/VEINHORN/android-tagview)
+* [「书志」APP客户端，每天为您推荐一本好书(※)](https://github.com/whilu/HnistBook)
+* [RevealLayout](https://github.com/kyze8439690/RevealLayout)
+* [android-ripple-background_类似QQ视频电话的呼叫时的波纹背景](https://github.com/skyfishjy/android-ripple-background)
 
 
