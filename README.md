@@ -195,3 +195,19 @@
 > * 二月二十七号
 
 * [AndroidNote](https://github.com/CharonChui/AndroidNote)
+
+> * 二月二十八号
+
+* [NestedTimeLineRecyclerView](https://github.com/ishratkhan/NestedTimeLineRecyclerView)
+* [CityPicker_仿美团等选择城市列表demo](https://github.com/zaaach/CityPicker)
+* [Awesome-RxJava(※)](https://github.com/lzyzsd/Awesome-RxJava)
+* [Full aspect ratio grid LayoutManager for Android's RecyclerView](https://github.com/500px/greedo-layout-for-android)
+* [skykai521的博客](http://skykai521.github.io/archives/)
+* [StickerCamera](https://github.com/Skykai521/StickerCamera)
+* [开源的 Material Design 豆瓣客户端(※)](https://github.com/DreaminginCodeZH/Douya)
+* [Android 开发入门指南 ](http://blog.zhanghai.me/android-developer-guide/)
+
+
+
+
+
