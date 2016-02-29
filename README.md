@@ -207,6 +207,12 @@
 * [开源的 Material Design 豆瓣客户端(※)](https://github.com/DreaminginCodeZH/Douya)
 * [Android 开发入门指南 ](http://blog.zhanghai.me/android-developer-guide/)
 
+> * 二月二十九号
+
+* [ChromeLikeSwipeLayout](https://github.com/ashqal/ChromeLikeSwipeLayout)
+* 
+
+
 
 
 
