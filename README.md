@@ -226,7 +226,7 @@
 * [EmphasisTextView_高亮TextView的部分](https://github.com/athkalia/EmphasisTextView)
 * [PhotoView作者的博客(※)](http://chris.banes.me/)
 * [ColorArcProgressBar](https://github.com/Shinelw/ColorArcProgressBar)
-* 
+* [国外一个人的博客(※)](http://chiuki.github.io/)
 
 
 
