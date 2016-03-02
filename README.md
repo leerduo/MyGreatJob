@@ -266,3 +266,8 @@
 * [抢红包插件(※)](https://github.com/geeeeeeeeek/WeChatLuckyMoney)
 * [抢红包插件](https://github.com/waylife/RedEnvelopeAssistant)
 * [新闻客户端](https://github.com/iQuick/NewsMe)
+* [LiquidSurface(※)](https://github.com/ykulbashian/LiquidSurface)
+* [MaterialViewPager](https://github.com/florent37/MaterialViewPager)
+* [MiClockView(※)](https://github.com/AvatarQing/MiClockView)
+* [Android-StickyNavLayout](https://github.com/hongyangAndroid/Android-StickyNavLayout/)
+* 
