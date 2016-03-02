@@ -265,4 +265,4 @@
 * [个人博客](https://medium.com/@jpardogo)
 * [抢红包插件(※)](https://github.com/geeeeeeeeek/WeChatLuckyMoney)
 * [抢红包插件](https://github.com/waylife/RedEnvelopeAssistant)
-* 
+* [新闻客户端](https://github.com/iQuick/NewsMe)
