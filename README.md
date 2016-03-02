@@ -270,4 +270,5 @@
 * [MaterialViewPager](https://github.com/florent37/MaterialViewPager)
 * [MiClockView(※)](https://github.com/AvatarQing/MiClockView)
 * [Android-StickyNavLayout](https://github.com/hongyangAndroid/Android-StickyNavLayout/)
-* 
+* [LondonEyeLayoutManager](https://github.com/danylovolokh/LondonEyeLayoutManager)
+
