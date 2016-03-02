@@ -253,4 +253,16 @@
 
 > * 三月二号
 
+* `小论文被录用，哇哈哈`
 * [清华一个学Android的笔记(※)](https://github.com/Piasy/notes/tree/master/Android-Java)
+* [不错的个人博客](http://blog.mcxiaoke.com/)
+* [Android渠道打包工具](https://github.com/mcxiaoke/gradle-packer-plugin)
+* [下一代Android打包工具，1000个渠道包只需要5秒](https://github.com/mcxiaoke/packer-ng-plugin)
+* [类似于BottomSheet](https://github.com/zzz40500/AndroidSweetSheet)
+* [日夜间主题模式切换](https://github.com/zzz40500/ThemeDemo)
+* [高仿58加载动画](https://github.com/zzz40500/android-shapeLoadingView)
+* [Android-PullToNextLayout](https://github.com/zzz40500/Android-PullToNextLayout)
+* [个人博客](https://medium.com/@jpardogo)
+* [抢红包插件(※)](https://github.com/geeeeeeeeek/WeChatLuckyMoney)
+* [抢红包插件](https://github.com/waylife/RedEnvelopeAssistant)
+* 
