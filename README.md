@@ -251,4 +251,6 @@
 * [Characterview_根据名字显示字符的View，类似Android5.0, Gmail风格联系人头像](https://github.com/ruijun/Characterview)
 * [recyclerview-multiselect](http://bignerdranch.github.io/recyclerview-multiselect/)
 
+> * 三月二号
 
+* [清华一个学Android的笔记(※)](https://github.com/Piasy/notes/tree/master/Android-Java)
