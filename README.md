@@ -323,3 +323,4 @@
 * [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
 * [A layout manager for the RecyclerView with interchangeable linear, grid, and staggered displays of views, all with configurable section headers including the sticky variety as specified in the material design(※)](https://github.com/TonicArtos/SuperSLiM)
 * [Powerful animated circular wheel chart library for Android developers.(※)](https://github.com/bmarrdev/android-DecoView-charting)
+* [个人开发者博客(※)](http://itangqi.me/)
