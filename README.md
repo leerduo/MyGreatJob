@@ -328,4 +328,33 @@
 > * 三月五号
 
 * [内存安全的Handler](https://github.com/badoo/android-weak-handler)
+* [JniHelpers](https://github.com/spotify/JniHelpers)
+* [JustWeEngine_An easy open source Android Native Game FrameWork.](https://github.com/lfkdsk/JustWeEngine)
+* [Reading App Write In React-Native](https://github.com/attentiveness/reading)
+* [Android-ViewModelBinding](https://github.com/jakubkinst/Android-ViewModelBinding)
+* [material-preferences](https://github.com/ferrannp/material-preferences)
+* [dialTimePicker_A custom time picker library for Android(※)](https://github.com/ugurtekbas/dialTimePicker)
+* [TimePicker](https://github.com/erz05/TimePicker)
+* [个人博客](http://laobie.github.io/)
+* [NineGridView](https://github.com/panyiho/NineGridView)
+* [NineGridImageView](https://github.com/laobie/NineGridImageView)
+* [Google_io_2016_timer(※)](https://github.com/eneim/Google_io_2016_timer)
+* [Examples of RecyclerView use and custom LayoutManager implementations(※)](https://github.com/devunwired/recyclerview-playground)
+* [总结的Android开源项目及库(※)](https://github.com/Tim9Liu9/TimLiu-Android)
+* [Material-Spinner](https://github.com/jaredrummler/Material-Spinner)
+* [set material design icon to your project](https://github.com/konifar/android-material-design-icon-generator-plugin)
+* [This is a Simple Android Custom EditText which fade at the end when the text goes beyond the screen.(※)](https://github.com/maheswaranapk/Android-Fade-EditText-View)
+
+
+> * 三月六号
+
+* [FastAdapter](https://github.com/mikepenz/FastAdapter)
+* [A customizable extension to Android switches that supports many items.](https://github.com/BelkaLab/Android-Toggle-Switch)
+* [Twitter's heart animation for Android](https://github.com/jd-alexander/LikeButton)
+* [AppUpdater](https://github.com/javiersantos/AppUpdater)
+* [Android-Boilerplate(※)](https://github.com/hitherejoe/Android-Boilerplate)
+* [Android MVVM experiment project using the official Data Binding library](https://github.com/hitherejoe/MVVM_Hacker_News)
+* [国外人写的动画库(※)](https://github.com/hitherejoe/animate)
+* [Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers)
+* [morphy-toolbar(※)](https://github.com/badoualy/morphy-toolbar)
 
