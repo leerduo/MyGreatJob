@@ -358,3 +358,12 @@
 * [Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers)
 * [morphy-toolbar(※)](https://github.com/badoualy/morphy-toolbar)
 
+> * 三月七号
+
+* [ViewDragHelper实现的类似探探卡片滑动的效果(※)](https://github.com/xmuSistone/android-card-slide-panel)
+* [image as a card, which can be slided to the left or the right and fade away](https://github.com/xmuSistone/android-image-slide-panel)
+* [vertical slide to switch to the next fragment page, looks like vertical viewpager](https://github.com/xmuSistone/android-vertical-slide-view)
+* [sticky view in viewpager which includes scrollview and listview - viewpager with headers](https://github.com/xmuSistone/android-sticky-viewpager)
+* [探探卡片滑动的效果](https://github.com/shallcheek/shallcheek_tantan)
+* [萌萌哒太阳宝宝主题的LoadingView(※)](https://github.com/Hitomis/SunBaby)
+* [A DownloadProgressButton with Animation for Android](https://github.com/cctanfujun/ProgressRoundButton)
