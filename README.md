@@ -391,3 +391,4 @@
 * [android-crop](https://github.com/jdamcd/android-crop)
 * [个人博客](http://wangpeiyuan.cn/2016/02/24/%E8%AE%B0%E4%B8%80%E6%AC%A1%E5%BC%B9%E5%B9%95%E7%9A%84%E5%BC%80%E5%8F%91/)
 * [个人博客](http://souly.cn/about/)
+* [GDG博客](http://chinagdg.org/2016/03/android-support-library-23-2/)
