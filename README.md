@@ -367,3 +367,27 @@
 * [探探卡片滑动的效果](https://github.com/shallcheek/shallcheek_tantan)
 * [萌萌哒太阳宝宝主题的LoadingView(※)](https://github.com/Hitomis/SunBaby)
 * [A DownloadProgressButton with Animation for Android](https://github.com/cctanfujun/ProgressRoundButton)
+
+> * 三月八号
+
+* `女票换工作第一天上班`
+* [LikeAnimation](https://github.com/frogermcs/LikeAnimation)
+* [LikeAnimation实现的blog](http://frogermcs.github.io/twitters-like-animation-in-android-alternative/)
+* [非常不错的blog(※)](http://frogermcs.github.io/)
+* [InstaMaterial(※)](https://github.com/frogermcs/InstaMaterial)
+* [RecyclerViewAnimations](https://github.com/frogermcs/RecyclerViewAnimations)
+* [个人blog](https://mzgreen.github.io/)
+* [CircleIndicator](https://github.com/ongakuer/CircleIndicator)
+* [不错的个人blog](http://relex.me/)
+* [九宫格动画(※)](https://github.com/david-wei/CubeGrid)
+* [Android 下划线的几种自定义实现。让下划线看起来美观一些。](https://github.com/ongakuer/android-underline-fun)
+* [The adapter support drag and expand event from recycler view.(※)](https://github.com/david-wei/ExpandDragHelper)
+* [不错的个人博客(※)](http://david-wei.github.io/)
+* [不错的技术文章](http://bignerdranch.github.io/expandable-recycler-view/)
+* [WaveLoadingView](https://github.com/liuzhiyi1992/WaveLoadingView)
+* [CircularBarPager(※)](https://github.com/OrangeGangsters/CircularBarPager)
+* [Android-SlideExpandableListView](https://github.com/tjerkw/Android-SlideExpandableListView)
+* [EasyArcLoading(※)](https://github.com/CaMnter/EasyArcLoading)
+* [android-crop](https://github.com/jdamcd/android-crop)
+* [个人博客](http://wangpeiyuan.cn/2016/02/24/%E8%AE%B0%E4%B8%80%E6%AC%A1%E5%BC%B9%E5%B9%95%E7%9A%84%E5%BC%80%E5%8F%91/)
+* [个人博客](http://souly.cn/about/)
