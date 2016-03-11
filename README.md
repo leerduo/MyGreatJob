@@ -437,4 +437,5 @@
 * [很不错的个人博客(※)](hhttp://androidperformance.com/)
 * [很不错的个人博客(※)](http://mobdevgroup.com/platform/android/article)
 * [很不错的个人博客(※)](http://www.jayfeng.com/archives)
+* [小米的一个同事的博客(※)](http://codethink.me/)
 
