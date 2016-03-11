@@ -431,5 +431,10 @@
 * [CreditCardView(※)](https://github.com/cooltechworks/CreditCardView)
 * [Play with bitmaps(※)](https://github.com/cooltechworks/BitmapMerger)
 
+> * 三月十一号
 
+* [很不错的个人博客(※)](http://blog.zhaiyifan.cn/)
+* [很不错的个人博客(※)](hhttp://androidperformance.com/)
+* [很不错的个人博客(※)](http://mobdevgroup.com/platform/android/article)
+* [很不错的个人博客(※)](http://www.jayfeng.com/archives)
 
