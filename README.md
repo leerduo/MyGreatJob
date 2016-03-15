@@ -439,3 +439,45 @@
 * [很不错的个人博客(※)](http://www.jayfeng.com/archives)
 * [小米的一个同事的博客(※)](http://codethink.me/)
 
+> * 三月十二号
+
+休息
+
+> * 三月十三号
+
+* [APK卸载后监听(常见应用场合是卸载后打开浏览器)](https://github.com/jingle1267/UninstallSelfObserverDemo)
+* [京东一个同学的博客](http://ihongqiqu.com/)
+* [GoogleDateTimePickers](https://github.com/Mirkoddd/GoogleDateTimePickers)
+* [GithubClient](https://github.com/frogermcs/GithubClient)
+* [A customizable indeterminate progress bar](https://github.com/JustZak/DilatingDotsProgressBar)
+* [androidmvp](https://github.com/antoniolg/androidmvp)
+* [技术分享，工具分享，好玩的东西(※)](https://github.com/xitu/Learning-Sharing)
+* [Android 仿照微信发说说，既能实现拍照，选图库，多图案上传 使用Retrofit技术(※)](https://github.com/lidong1665/Android-UploadMultipartImage)
+
+
+> * 三月十四号
+
+* [simple-mvp](https://github.com/tinmegali/simple-mvp)
+* [国内 Android 开发者信息](https://github.com/android-cn/android-dev-cn)
+* [SearchView](https://github.com/lapism/SearchView)
+* [Android Studio plug-in for generating ButterKnife injections from selected layout XML.](https://github.com/avast/android-butterknife-zelezny)
+* [A custom recycler view and adapter which allows you to have an infinite scrolling list](https://github.com/saurabharora90/InfiniteRecyclerView)
+* [MaterialArcMenu](https://github.com/saurabharora90/MaterialArcMenu)
+* [ListViewAnimations](https://github.com/nhaarman/ListViewAnimations)
+* [android-percent-support-lib-sample](https://github.com/JulienGenoud/android-percent-support-lib-sample)
+* [开发中常用的工具类](https://github.com/jingle1267/android-utils)
+* [AutoScrollPageView](https://github.com/jingle1267/AutoScrollPageView)
+
+> * 三月十五号
+
+* [MarkDown格式的简历模板(※)](https://github.com/there4/markdown-resume)
+* [不错的博客(※)](http://blog.sqisland.com/2015/01/partial-slidingpanelayout.html)
+* [RecyclerView: Grid with header](http://blog.sqisland.com/2014/12/recyclerview-grid-with-header.html)
+* [RecyclerView: Autofit grid](http://blog.sqisland.com/2014/12/recyclerview-autofit-grid.html)
+* [First look at AnimatedVectorDrawable](http://blog.sqisland.com/2014/10/first-look-at-animated-vector-drawable.html)
+* [An unofficial basic implementation of the BBC News app built using React Native](https://github.com/joeltrew/BBCNews-React-Native)
+* [An calender widget for your Android home screen.](https://github.com/plusonelabs/calendar-widget)
+* [This project aims to work as a demo project and reference using the common frameworks and tools used in production enviroments(※)](https://github.com/saulmm/Avengers)
+* [Android Transition animations explanation with examples.](https://github.com/lgvalle/Material-Animations)
+* [RxJava: Android MVVM App structure with Retrofit](https://medium.com/@manuelvicnt/rxjava-android-mvvm-app-structure-with-retrofit-a5605fa32c00#.19aa6m8la)
+
