@@ -481,3 +481,22 @@
 * [Android Transition animations explanation with examples.](https://github.com/lgvalle/Material-Animations)
 * [RxJava: Android MVVM App structure with Retrofit](https://medium.com/@manuelvicnt/rxjava-android-mvvm-app-structure-with-retrofit-a5605fa32c00#.19aa6m8la)
 
+> * 三月十五号
+
+* [CustomShapeImageView](https://github.com/MostafaGazar/CustomShapeImageView)
+* [Android-Bluetooth-Scanner(※)](https://github.com/dmilicic/Android-Bluetooth-Scanner)
+* [The main goal is to practice UI Testing.](https://github.com/Karumi/KataSuperHeroesAndroid)
+* [(※)plugin framework on android,Run any third-party apk without installation, modification or repackage★★★]((https://github.com/Qihoo360/DroidPlugin)
+* [移动前线社群的一些文档和在线资源★★★](](https://github.com/pockry/mobile-frontier)
+* [Generate json api for your awesome hexo site★★★](](https://github.com/tjwudi/hexo-generator-api)
+* [Layout that contains a ViewPager and can slide vertically between 2 states (expanded and collapsed).](https://github.com/Telenav/ExpandablePager)
+* [Intro-To-RxJava](https://github.com/Froussios/Intro-To-RxJava)
+* [A sample Android project demonstrating the use of Retrofit and RxJava to interact with web services](https://github.com/vyshane/rex-weather)
+* [收集了RxJava常见的使用场景，例子简洁、经典、易懂...](https://github.com/THEONE10211024/RxJavaSamples)
+* [谷歌官方的MaterialDesign颜色代码](https://github.com/zzhoujay/MaterialDesignColor)
+* [ToggleButton★★★](](https://github.com/zcweng/ToggleButton)
+* [PermissionHelper](https://github.com/k0shk0sh/PermissionHelper)
+* [easypermissions](https://github.com/googlesamples/easypermissions)
+* [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)
+* [ArcAnimator helps to create arc transition animation](https://github.com/asyl/ArcAnimator)
+* [TourGuide is an Android library that aims to provide an easy way to add pointers with animations over a desired Android View](https://github.com/worker8/TourGuide)
