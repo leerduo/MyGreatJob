@@ -481,7 +481,7 @@
 * [Android Transition animations explanation with examples.](https://github.com/lgvalle/Material-Animations)
 * [RxJava: Android MVVM App structure with Retrofit](https://medium.com/@manuelvicnt/rxjava-android-mvvm-app-structure-with-retrofit-a5605fa32c00#.19aa6m8la)
 
-> * 三月十五号
+> * 三月十六号
 
 * [CustomShapeImageView](https://github.com/MostafaGazar/CustomShapeImageView)
 * [Android-Bluetooth-Scanner(※)](https://github.com/dmilicic/Android-Bluetooth-Scanner)
@@ -500,3 +500,30 @@
 * [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)
 * [ArcAnimator helps to create arc transition animation](https://github.com/asyl/ArcAnimator)
 * [TourGuide is an Android library that aims to provide an easy way to add pointers with animations over a desired Android View](https://github.com/worker8/TourGuide)
+
+
+> * 三月十七号
+
+* [ImageViewZoom](https://github.com/sephiroth74/ImageViewZoom)
+* [Process Phoenix facilitates restarting your application process.](https://github.com/JakeWharton/ProcessPhoenix)
+* [A custom view component that mimicks the new Material Design Bottom Navigation pattern.&项目中用到(※)](https://github.com/roughike/BottomBar)
+* [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries)
+* [Blurry is an easy blur library for Android(※)](https://github.com/wasabeef/Blurry)
+* [DroidCon Slide Archives(※)](https://github.com/droidcon-slides/2015)
+* [RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android.](https://github.com/wasabeef/richeditor-android)
+* [An Android Custom Viw - SpiderWebView](https://github.com/whitelaning/SpiderWebView)
+* [BlurTestAndroid](https://github.com/patrickfav/BlurTestAndroid)
+* [DeepLearningFlappyBird](https://github.com/yenchenlin1994/DeepLearningFlappyBird)
+* [DoubanMovie made with React Native](https://github.com/fengjundev/DoubanMovie-React-Native)
+* [Gradle 2 User Guide 中文翻译《Gradle 2 用户指南》](https://github.com/waylau/Gradle-2-User-Guide)
+* [BlurEffectForAndroidDesign](https://github.com/PomepuyN/BlurEffectForAndroidDesign)
+* [SectionedExpandableGridRecyclerView(※)](https://github.com/bpncool/SectionedExpandableGridRecyclerView)
+* [HotFix(※)](https://github.com/dodola/HotFix)
+* [SearchPictureTool(※)](https://github.com/wenhuaijun/SearchPictureTool)
+* [AndFix is a library that offer hot-fix for Android App.](https://github.com/alibaba/AndFix)
+* [实现Android App多apk插件化和动态加载，支持资源分包和热修复](https://github.com/CtripMobile/DynamicAPK)
+
+
+
+
+
