@@ -528,14 +528,20 @@
 
 打球把腿给弄伤了..../流汗.....
 
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [不错的博客](https://github.com/GcsSloop/SloopBlog)
+* [RxJava相关](https://github.com/xesam/RxJava-collection)
+* [不错的笔记](https://github.com/wangwangheng/BestBlogReprinted_AndroidNotes)
+* [基础项目，使用Rx、retrofit2、glide、rxBind](https://github.com/ChineseLincoln/BaseProject)
+* [整理项目开发中用到的开源框架封装、测试例子、开发中遇到的问题等](https://github.com/huangwm1984/AndroidBase)
+* [IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView)
+* [Sticky Headers decorator for Android's RecyclerView](https://github.com/timehop/sticky-headers-recyclerview)
+* [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)
+* [A Java Application to create appropriate Drawable resources for your Android application](https://github.com/tizionario/AndroidDrawableFactory)
+* [个人博客](http://www.vmatianyu.cn/)
+* [聚划算android客户端1期教训总结](http://www.vmatianyu.cn/poly-effective-client-1-issues-lessons.html)
+* [常用的工具类和框架整合](https://github.com/litesuits/android-common)
+* [BottomSheets源码解析](https://github.com/android-cjj/SourceAnalysis)
+* [Swipe](https://github.com/aaronbond/Swipe-Deck)
+* [DragRecyclerView](https://github.com/AleBarreto/DragRecyclerView)
+
 
