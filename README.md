@@ -554,4 +554,46 @@
 
 休息
 
+> * 三月二十一号
+
+* [Rx和RxJava文档中文翻译项目 http://mcxiaoke.gitbooks.io/rxdocs/content/](https://github.com/mcxiaoke/RxDocs)
+* [Twenty-eight different easing animation interpolators for Android.](https://github.com/MasayukiSuda/EasingInterpolator)
+* [Dividers is a simple Android library to create easy separators for your RecyclerViews](https://github.com/Karumi/Dividers)
+* [ExpandableSelector is an Android library created to show a list of Button/ImageButton widgets inside a animated container which can be collapsed or expanded._初级自定义View学习案例(※)](https://github.com/Karumi/ExpandableSelector)
+* [Android library that simplifies the process of requesting permissions at runtime. http://karumi.com(※)](https://github.com/Karumi/Dexter)
+* [Custom switch with a circular reveal effect_初级自定义View学习案例(※)](https://github.com/Serchinastico/CoolSwitch)
+* [Rosie is an Android framework to create applications following the principles of Clean Architecture._Android App框架(※)](https://github.com/Karumi/Rosie)
+* [HeaderRecyclerView](https://github.com/Karumi/HeaderRecyclerView)
+* [A simple material design app intro with cool animations and a simple API.](https://github.com/HeinrichReimer/material-intro)
+* [MVP介绍的博客](http://engineering.remind.com/android-code-that-scales/)
+* [Simple example Dagger2 + MVP to show how it works.](https://github.com/erikcaffrey/Dagger2-MVP-Sample)
+* [Example android Model View Presenter used to explain how to use this pattern in our android applications](https://github.com/erikcaffrey/Android-Spotify-MVP)
+* [A custom CheckBox with animation for Android.初级自定义View学习案例(※)](https://github.com/andyxialm/SmoothCheckBox)
+* [ColorDialog & PromptDialog_很不错的dialog(※)](https://github.com/andyxialm/ColorDialog)
+* [ShapeImageView初级自定义View学习案例(※)](https://github.com/andyxialm/ShapeImageView)
+* [ExpandableLayout初级自定义View学习案例(※)](https://github.com/andyxialm/ExpandableLayout)
+* [CharacterView初级自定义View学习案例(※)](https://github.com/andyxialm/CharacterView)
+* [A custom toggle button for changing day/night theme.](https://github.com/andyxialm/DNToggleButton)
+* [KMPAutoCompleteTextView提升逼格....](https://github.com/andyxialm/KMPAutoCompleteTextView)
+* [a RecyclerView that implements pullrefresh and loadingmore featrues.you can use it like a standard RecyclerView待学习(※)](https://github.com/jianghejie/XRecyclerView)
+* [A clone of the Google Now/Maps/Play persistent search bar](https://github.com/Quinny898/PersistentSearch)
+* [a linked ViewPager and a demo to show the effect](https://github.com/jianghejie/LinkedViewPager)
+* [仿搜狐视频电影海报Gallery效果](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0414/2723.html)
+* [圆圈布局的自定义View&初级自定义View学习案例(※)](https://github.com/jianghejie/GossipView)
+* [A tiny window overlay to log app internal on top of your android app http://hannesdorfmann.com/android/debug-overlay/调试程序的时候试试](https://github.com/sockeqwe/debugoverlay)
+* [Dribbble客户端](https://github.com/ikew0ng/Dribbo)
+* [第三方新浪微博客户端&项目学习](https://github.com/andforce/iBeebo)
+* [passwordview](https://github.com/lisawray/passwordview)
+* [This is a library with components of Android L to you use in android 2.2](https://github.com/navasmdc/MaterialDesignLibrary)
+* [This is a pet project that shows how to implement shared element image transition on pre-Lollipop devices on Android.](https://github.com/danylovolokh/ImageTransition)
+* [商城中倒计时的View(※)](https://github.com/CaMnter/EasyCountDownTextureView)
+* [Android Customization: How to Build a UI Component That Does What You Want很赞的一篇博客(※)](https://www.toptal.com/android/android-customization-how-to-build-a-ui-component-that-does-what-you-want)
+* [scrollscreenshot](https://github.com/PGSSoft/scrollscreenshot)
+* [Collection of material design libs and res.](https://github.com/lightSky/Awesome-MaterialDesign)
+* [Backport of Android Transitions API for animations. Animations backported to Android 4.0+. API compatible with Android 2.2+](https://github.com/andkulikov/Transitions-Everywhere)
+* [A ViewPager implemention base on RecyclerView's code. Support fling operation like gallary.](https://github.com/lsjwzh/RecyclerViewPager)
+* [Views and Drawable for displaying animated GIFs on Android](https://github.com/koral--/android-gif-drawable)
+* [A library to reproduce the behavior of the Bottom Navigation guidelines from Material Design.](https://github.com/aurelhubert/ahbottomnavigation)
+
+
 
