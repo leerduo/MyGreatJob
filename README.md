@@ -631,8 +631,34 @@
 * [An Android Widget for selecting items that rotate on a wheel.自定义View学习案例(※)](https://github.com/LukeDeighton/WheelView)
 
 
+> * 三月二十二号
 
-
+* [Easy to use material icons for Android](https://github.com/Malinskiy/android-material-icons)
+* [包含很多特性的RecyclerView&下拉刷新&加载更多&没有数据的empty&侧滑删除&stickyheader效果](https://github.com/Malinskiy/SuperRecyclerView)
+* [A animated circle view. Can be used as loading indicator and to show progress or values in a circular manner.自定义View初级(※)](https://github.com/jakob-grabner/Circle-Progress-View)
+* [下载工具&多任务&断点下载&高并发&学习用(※)](https://github.com/lingochamp/FileDownloader)
+* [Effective RxJava](https://github.com/mgp/effective-rxjava)
+* [在Android上结合七牛提供的API，让加载图片更有效、更节流、更简单、更可控、更酷](https://github.com/lingochamp/QiniuImageLoader)
+* [渐变的圆形进度条与轻量横向进度条&自定义View初级学习(※)](https://github.com/lingochamp/MagicProgressWidget)
+* [前微信Android开发工程师的博客](http://blog.dreamtobe.cn/archives/)
+* [处理 Span 在 最大宽度文字尾省略号，无效的问题。 http://blog.dreamtobe.cn/2015/09/17/span_ellipsize_end/](https://github.com/lingochamp/SpanEllipsizeEnd)
+* [Simple Handler forwarding, for supporting pause、resume、cancelAllMessage、killSelf skills.](https://github.com/Jacksgong/MessageHandler)
+* [Android键盘面板冲突 布局闪动处理方案](https://github.com/Jacksgong/JKeyboardPanelSwitch)
+* [AIDL学习](https://github.com/Jacksgong/AIDL_COMMUNICATE-CALLBACK)
+* [RecyclerView学习](https://github.com/apptik/MultiView)
+* [androidWheelView](https://github.com/weidongjian/androidWheelView)
+* [Present your progress bars in arc mode with information and total control.](https://github.com/GIGAMOLE/ArcProgressStackView)
+* [Android流式布局，支持单选、多选等，适合用于产品标签等。](https://github.com/hongyangAndroid/FlowLayout)
+* [CutIntoLayout allows you to erase the background.](https://github.com/GIGAMOLE/CutIntoLayout)
+* [The set of useful and beautiful spinners.](https://github.com/GIGAMOLE/MillSpinners)
+* [Custom fonts in Android the easy way...(※)](https://github.com/chrisjenx/Calligraphy)
+* [A fast ImageView that supports rounded corners, ovals, and circles.](https://github.com/vinc3m1/RoundedImageView)
+* [点赞动画](https://github.com/android-cjj/Like)
+* [ArrayAdapter,pull to refresh,auto load more,Header/Footer,EmptyView,ProgressView,ErrorView](https://github.com/Jude95/EasyRecyclerView)
+* [DatePicker](https://github.com/AigeStudio/DatePicker)
+* [hexo主题](https://github.com/luuman/hexo-theme-spfk)
+* [android视频会议系统](https://github.com/inexistence/VideoMeeting)
+* [Android 一些重要知识点解析整理](https://github.com/FX-Max/Point-of-Android)
 
 
 
