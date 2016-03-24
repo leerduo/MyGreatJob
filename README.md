@@ -661,7 +661,20 @@
 * [Android 一些重要知识点解析整理](https://github.com/FX-Max/Point-of-Android)
 
 
+> * 三月二十三号
 
-
+* [ItemDecoration for RecyclerView using LinearLayoutManager for Android](https://github.com/magiepooh/RecyclerItemDecoration)
+* [Library project to display DialogFragment with a blur effect.(※)](https://github.com/tvbarthel/BlurDialogFragment)
+* [Camera Color Picker is an Android application that lets you capture, in real time, the colors around you using the camera of your device http://tvbarthel.github.io/CameraColorPicker/(※)](https://github.com/tvbarthel/CameraColorPicker)
+* [Sandbox for parallax experiment(※)](https://github.com/tvbarthel/ParallaxSampleGitHub)
+* [个人博客(※)](http://trickyandroid.com/advanced-blurring-techniques/)
+* [SayItFromTheSky](https://github.com/tvbarthel/SayItFromTheSky)
+* [老外写的天气预报app](https://github.com/tvbarthel/SimpleThermometerProject)
+* [An Android demo of a foldable layout implementation.](https://github.com/worldline/FoldableLayout)
+* [瀑布流效果](https://github.com/amasciul/Drinks)
+* [Android's TextView that can expand/collapse like the Google Play's app description](https://github.com/Manabu-GT/ExpandableTextView)
+* [GlassView is an Android library that allows developers to easily add a glass-like effect on the parent view.](https://github.com/Manabu-GT/GlassView)
+* [应用卸载后弹出网页](http://coolerfall.com/android/android-app-uninstall-watcher)
+* [不错的天气预报app](https://github.com/WangDaYeeeeee/GeometricWeather)
 
 
