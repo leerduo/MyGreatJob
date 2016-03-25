@@ -677,4 +677,37 @@
 * [应用卸载后弹出网页](http://coolerfall.com/android/android-app-uninstall-watcher)
 * [不错的天气预报app](https://github.com/WangDaYeeeeee/GeometricWeather)
 
+> * 三月二十三号
+
+* [Android自定义View&标签&自定义View学习案例(※)](https://github.com/2dxgujun/AndroidTagGroup)
+* [个人博客](http://painterlin.com/pages/about.html)
+* [陈恩红的主页](http://staff.ustc.edu.cn/~cheneh/)
+* [RxJava 和 Retrofit 结合使用的几个最常见使用方式举例(※)](https://github.com/rengwuxian/RxJavaSamples)
+* [袁亚湘老师的主页](http://lsec.cc.ac.cn/~yyx/chinese/indexc.htm)
+* [MarkdownView is an Android webview with the capablity of loading Markdown text or file and display it as HTML, it uses MarkdownJ and extends Android webview.(※)](https://github.com/falnatsheh/MarkdownView)
+* [Android路由框架设计与实现](https://github.com/campusappcn/AndRouter)
+* [kotlin 官方文档](https://github.com/huanglizhuo/kotlin-in-chinese)
+* [A lightweight Youtube frontend for Android.](https://github.com/theScrabi/NewPipe)
+* [Developing for Android: Introduction](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c#.jvhe6v2yp)
+* [on LinearLayout Measures](http://helw.net/2016/01/27/on-linearlayout-measures/)
+* [5 tips for preparing for Multi-Window in Android N](https://medium.com/google-developers/5-tips-for-preparing-for-multi-window-in-android-n-7bed803dda64#.y41gopjyl)
+* [Android Bitmap面面观](http://jayfeng.com/2016/03/22/Android-Bitmap%E9%9D%A2%E9%9D%A2%E8%A7%82/)
+* [Kotlin 语言高级安卓开发入门](https://realm.io/cn/news/oredev-jake-wharton-kotlin-advancing-android-dev/)
+* [Java 8 特性 – 终极手册](http://ifeve.com/java-8-features-tutorial/)
+* [面试相关](http://hit-alibaba.github.io/interview/index.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
