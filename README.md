@@ -719,7 +719,9 @@
 * [Android integration of multiple icon providers such as FontAwesome, Entypo, Typicons,... http://joanzapata.com/android-iconify](https://github.com/JoanZapata/android-iconify)
 * [Prettier display of Android Lint issues https://passy.github.io/android-lint-summary(※)](https://github.com/passy/android-lint-summary)
 
+> * 三月二十六号
 
+* [resolveSizeAndState方法介绍](https://opticalix.github.io/2015/10/25/custom-view-summary/)
 
 
 
