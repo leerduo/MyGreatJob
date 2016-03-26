@@ -705,9 +705,19 @@
 * [retrofit](http://themakeinfo.com/2015/04/retrofit-android-tutorial/)
 
 
+> * 三月二十五号
 
-
-
+* [最良心的开源表情键盘解决方案(※)](https://github.com/w446108264/XhsEmoticonsKeyboard)
+* [整理的插件式开发相关解决方案和文档(※)](https://github.com/liaohuqiu/android-dynamic-load-awesome/blob/master/README-cn.md)
+* [基于RxJava+Retrofit+OkHttp实现的纯净知乎日报客户端 https://github.com/laucherish/PureZhihuD(※)](https://github.com/laucherish/PureZhihuD)
+* [Android view with both path from constructed path or from svg.](https://github.com/geftimov/android-pathview)
+* [时光轴效果](https://github.com/ljtyzhr/TimeLine)
+* [时光轴效果](https://github.com/vipulasri/Timeline-View)
+* [An Android TDD bootstrap project, use a collection of new technology, obey best practices, inspired from some popular architectures, develop with many handy tools.&待学习的项目&该项目综合了很多新的技术和一些工具的使用(※)](https://github.com/Piasy/AndroidTDDBootStrap)
+* [Model-View-Presenter](http://hannesdorfmann.com/mosby/mvp/)
+* [RxJava&RxAndroid官方](https://github.com/ReactiveX/RxAndroid)
+* [Android integration of multiple icon providers such as FontAwesome, Entypo, Typicons,... http://joanzapata.com/android-iconify](https://github.com/JoanZapata/android-iconify)
+* [Prettier display of Android Lint issues https://passy.github.io/android-lint-summary(※)](https://github.com/passy/android-lint-summary)
 
 
 
