@@ -723,6 +723,17 @@
 
 * [resolveSizeAndState方法介绍](https://opticalix.github.io/2015/10/25/custom-view-summary/)
 
+> * 三月二十七号
+
+* [provide a solution that can help developers to show pictures in any shape.](https://github.com/lankton/android-anyshape)
+* [Android Studio+LLDB调试内核Binder](https://github.com/dodola/BinderDebug)
+* [Play video in ListView or RecyclerView](https://github.com/waynell/VideoListPlayer)
+* [AndroidCapture For Processing https://onlylemi.github.io/processing-android-capture/](https://github.com/onlylemi/processing-android-capture)
+* [自定义View学习案例(※)](https://github.com/brucetoo/ComboView)
+
+> * 三月二十八号
+
+* 大论文基本写完了
 
 
 
