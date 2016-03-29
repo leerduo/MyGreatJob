@@ -746,5 +746,11 @@
 * [a simple demo about MVP+Dagger2+Retrofit](https://github.com/thinkSky1206/MVP-Dagger2-Retrofit)
 * [This is a very simple library for Android that allows you to stick an header to a scrollable view and easily apply animation to it](https://github.com/carlonzo/StikkyHeader)
 * [DotProgressBarExample自定义View学习案例](https://github.com/silvestrpredko/DotProgressBarExample)
+* [展示自定义RecyclerView的LayoutManager的过程，可以按顺序检出tag来查看每个阶段的代码](https://github.com/vilyever/HowToCustomLayoutManager)
+* [StatusBarCompat](https://github.com/niorgai/StatusBarCompat)
+* [Android loading animations](https://github.com/ybq/Android-SpinKit)
+* [一个简单的标签控件&自定义View学习案例(※)](https://github.com/corerzhang/LabelView)
+* [AndroidAlbum&Android图库选择相片&类似于QQ选择图片&类似于微信选择图片(※)](https://github.com/D-clock/AndroidAlbum)
+* [一个简单的标签控件&自定义View学习案例(※)](https://github.com/shts/TriangleLabelView)
 
 
