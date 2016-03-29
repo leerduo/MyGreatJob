@@ -735,5 +735,16 @@
 
 * 大论文基本写完了
 
+> * 三月二十九号
+
+* [Just Sample how to use the SmartTabLayout ,RecyclerView , Circualreveal.](https://github.com/Skykai521/RecyclerView-Animation-Demo)
+* [Simple and convenient library that allows you to slide images through a view.](https://github.com/GIGAMOLE/SlideImageView)
+* [Android widget for selecting a range of values.](https://github.com/edmodo/range-bar)
+* [Android - draw z-depth shadow of MaterialDesign](https://github.com/ShogoMizumoto/ZDepthShadow)
+* [Pinterest like awesome menu control for Android](https://github.com/brucetoo/PinterestView)
+* [LuseenBottomNavigation](https://github.com/armcha/LuseenBottomNavigation)
+* [a simple demo about MVP+Dagger2+Retrofit](https://github.com/thinkSky1206/MVP-Dagger2-Retrofit)
+* [This is a very simple library for Android that allows you to stick an header to a scrollable view and easily apply animation to it](https://github.com/carlonzo/StikkyHeader)
+* [DotProgressBarExample自定义View学习案例](https://github.com/silvestrpredko/DotProgressBarExample)
 
 
