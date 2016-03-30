@@ -753,4 +753,9 @@
 * [AndroidAlbum&Android图库选择相片&类似于QQ选择图片&类似于微信选择图片(※)](https://github.com/D-clock/AndroidAlbum)
 * [一个简单的标签控件&自定义View学习案例(※)](https://github.com/shts/TriangleLabelView)
 
+> * 三月三十号
 
+* [StatusBarCompat](https://github.com/niorgai/StatusBarCompat)
+* [老外整理的国外的一些blog资源&推荐看(※)](https://github.com/GDGAhmedabad/Learning-Resources/blob/master/android/blogs.md)
+* [Custom shaped android imageview components](https://github.com/siyamed/android-shape-imageview)
+* [A download button with pretty cool animation自定义View学习案例](https://github.com/fenjuly/ArrowDownloadButton)
