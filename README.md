@@ -759,3 +759,30 @@
 * [老外整理的国外的一些blog资源&推荐看(※)](https://github.com/GDGAhmedabad/Learning-Resources/blob/master/android/blogs.md)
 * [Custom shaped android imageview components](https://github.com/siyamed/android-shape-imageview)
 * [A download button with pretty cool animation自定义View学习案例](https://github.com/fenjuly/ArrowDownloadButton)
+
+> * 三月三十一号
+
+* [老外整理的国外的博客(※)](https://github.com/kilimchoi/engineering-blogs)
+* [A Blurring View for Android](http://developers.500px.com/2015/03/17/a-blurring-view-for-android.html)
+* [MinMinGuard is an Ad-remover made with Xposed Framework for Android. MinMinGuard can completely remove both the ads inside apps and the empty space caused by those ads. Conventional ads removing apps are only able to block the ad content, but the space taken by the ad will still remain unused (black). MinMinGuard successfully removes that black space, which extends the app window and makes your user-experience better!(※)](https://github.com/chiehmin/MinMinGuard)
+* [Android中Gradle用法的系列文章](https://github.com/WuXiaolong/Gradle4Android)
+* [会爆照的menu&动画很酷](https://github.com/Nightonke/BoomMenu)
+* [Android-transulcent-status-bar](http://niorgai.github.io/2016/03/20/Android-transulcent-status-bar/)
+* [不错的博客](http://niorgai.github.io/)
+* [Android 5.0+ killed getRunningTasks(int) and getRunningAppProcesses(). Both of those methods are now deprecated and only return your application process. You can get a list of running apps using UsageStatsManager, however, this requires your users to grant your application a special permission in Settings. It has been reported that some OEMs have removed this preference.This small library can get a list of running apps and does not require any permissions.](https://github.com/jaredrummler/AndroidProcesses)
+* [Welcome Coordinator for Android](https://github.com/txusballesteros/welcome-coordinator)
+* [DroidPlugin 是360手机助手在Android系统上实现了一种新的插件机制:它可以在无需安装、修改的情况下运行APK文件,此机制对改进大型APP的架构，实现多团队协作开发具有一定的好处。(※)](https://github.com/DroidPluginTeam/DroidPlugin)
+* [FloatingText is a text widget that can floating above view with animation&自定义View学习案例(※)](https://github.com/UFreedom/FloatingText)
+* [How We Created uCrop, Our Own Image Cropping Library for Android&推荐(※)](https://yalantis.com/blog/how-we-created-ucrop-our-own-image-cropping-library-for-android/)
+* [CountDownTextView](https://github.com/UFreedom/CountDownTextView)
+* [Drag and drop re-ordering adapter for RecyclerView](https://github.com/vinc3m1/DragSortAdapter)
+* [类似QQ空间，微信朋友圈，微博主页等，展示图片的九宫格控件，自动根据图片的数量确定图片大小和控件大小，使用Adapter模式设置图片，对外提供接口回调，整合了Glide和PhotoView，点击图片全屏预览大图。](https://github.com/jeasonlzy0216/NineGridView)
+* [仿微信底部tab标签，滑动的时候颜色渐变，使用极其简单，只需要两行代码。](https://github.com/jeasonlzy0216/AlphaIndicatorView)
+* [A great list of open sourced UI Motion Library produced by Animatious Group. http://anius.io/](https://github.com/Animatious/awesome-animation)
+* [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms)
+* [使用属性动画实现星光四射的动画效果](http://www.wangchenlong.org/2016/03/22/1603/224-star-explode-anim/)
+
+
+
+
+
