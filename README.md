@@ -796,6 +796,16 @@
 
 * [自定义组件最详细实例讲解（5步实现自定义View） 非常赞的一篇文章(※)](http://leoray.leanote.com/post/view-custom)
 
+* [DrawingAnimate](https://github.com/Rogero0o/DrawingAnimate)
+* [Android widget for cropping and rotating an image.](https://github.com/edmodo/cropper)
+* [Android widget for cropping image, optimized for picked image from Camera or Gallery.](https://github.com/ArthurHub/Android-Image-Cropper)
+* [CatLoadingView](https://github.com/Rogero0o/CatLoadingView)
+* [android powerful picture picker](https://github.com/ValuesFeng/AndroidPicturePicker)
+* [With DrawMe you can easily create views with custom background shapes using only XML layout files.](https://github.com/rafakob/DrawMe)
+* [Android上电影购票的动效实现](https://github.com/DavidWangTM/DWCinemaAnimation-Android)
+* [这是一个融入了MVP模式,集成了多个开源项目后,进行整合形成的Android快速开发框架。](https://github.com/huntermr/FastAndroid)
+* [Android library that allows launching a custom activity when your app crashes, instead of showing the hated "Unfortunately, X has stopped" dialog.](https://github.com/Ereza/CustomActivityOnCrash)
+* [A Simple Android LabelView.自定义View学习案例(※)](https://github.com/H07000223/FlycoLabelView)
 
 
 
