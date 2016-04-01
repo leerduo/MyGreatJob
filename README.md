@@ -794,6 +794,8 @@
 > * [Building Custom Lint Checks in Android](https://www.bignerdranch.com/blog/building-custom-lint-checks-in-android/)
 * [Continuous Linting](https://www.bignerdranch.com/blog/continuous-linting/)
 
+* [自定义组件最详细实例讲解（5步实现自定义View） 非常赞的一篇文章(※)](http://leoray.leanote.com/post/view-custom)
+
 
 
 
