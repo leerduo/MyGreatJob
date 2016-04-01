@@ -789,8 +789,9 @@
 
 * 愚人节快乐,哈哈
 
-> * 关于自定义静态检查工具Lint的两篇文章
-* [Building Custom Lint Checks in Android](https://www.bignerdranch.com/blog/building-custom-lint-checks-in-android/)
+`关于自定义静态检查工具Lint的两篇文章`
+
+> * [Building Custom Lint Checks in Android](https://www.bignerdranch.com/blog/building-custom-lint-checks-in-android/)
 * [Continuous Linting](https://www.bignerdranch.com/blog/continuous-linting/)
 
 
