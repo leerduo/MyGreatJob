@@ -783,6 +783,16 @@
 * [使用属性动画实现星光四射的动画效果](http://www.wangchenlong.org/2016/03/22/1603/224-star-explode-anim/)
 
 
+# 四月份
+
+> * 四月一号
+
+* 愚人节快乐,哈哈
+
+> * 关于自定义静态检查工具Lint的两篇文章
+* [Building Custom Lint Checks in Android](https://www.bignerdranch.com/blog/building-custom-lint-checks-in-android/)
+* [Continuous Linting](https://www.bignerdranch.com/blog/continuous-linting/)
+
 
 
 
