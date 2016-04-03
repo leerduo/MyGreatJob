@@ -816,6 +816,8 @@
 
 > * 四月三号
 
+* `阿呆的生日`
+
 * [Builder pattern for support library Snackbars, that makes them easier to customise and use](https://github.com/andrewlord1990/SnackbarBuilder)
 * [V2EX-API](https://github.com/djyde/V2EX-API)
 * [Android自定义相册，实现了拍照、图片选择（单选/多选）、 裁剪（单/多裁剪）、旋转、ImageLoader无绑定任由开发者选 择、功能可配置、主题样式可配置&Gallery&(※)](https://github.com/pengjianbo/GalleryFinal)
