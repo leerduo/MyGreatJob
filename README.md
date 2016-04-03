@@ -811,3 +811,15 @@
 > * 四月二号
 
 * [个人博客](http://itangqi.me/)
+
+
+
+> * 四月三号
+
+* [Builder pattern for support library Snackbars, that makes them easier to customise and use](https://github.com/andrewlord1990/SnackbarBuilder)
+* [V2EX-API](https://github.com/djyde/V2EX-API)
+* [Android自定义相册，实现了拍照、图片选择（单选/多选）、 裁剪（单/多裁剪）、旋转、ImageLoader无绑定任由开发者选 择、功能可配置、主题样式可配置&Gallery&(※)](https://github.com/pengjianbo/GalleryFinal)
+* [Android多渠道打包，有网页版，Gradle版，Python版、BAT脚本、Jar版](https://github.com/pengjianbo/MutiChannelPackup)
+* [悬浮窗&值得学习](https://github.com/pengjianbo/FloatViewFinal)
+
+
