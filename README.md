@@ -829,6 +829,9 @@
 
 * [A simple utility to remove unused resources in your Android app to lower the size of the APK. It's based on the Android lint tool output.(※)](https://github.com/KeepSafe/android-resource-remover)
 * [A Gradle plugin to report the number of method references in your APK on every build.(※)](https://github.com/KeepSafe/dexcount-gradle-plugin)
+* [Navigation tab bar with colorful interactions.&这种导航按钮包括底部菜单导航和垂直的导航还有嵌入式的支持(※)](https://github.com/DevLight-Mobile-Agency/NavigationTabBar)
+* [Android Material Icon Generator(※)](http://bitdroid.de/Android-Material-Icon-Generator/)
+
 
 
 
