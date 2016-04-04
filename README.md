@@ -825,3 +825,11 @@
 * [悬浮窗&值得学习](https://github.com/pengjianbo/FloatViewFinal)
 
 
+> * 四月四号
+
+* [A simple utility to remove unused resources in your Android app to lower the size of the APK. It's based on the Android lint tool output.(※)](https://github.com/KeepSafe/android-resource-remover)
+* [A Gradle plugin to report the number of method references in your APK on every build.(※)](https://github.com/KeepSafe/dexcount-gradle-plugin)
+
+
+
+
