@@ -841,7 +841,7 @@
 * [打造鲁棒的安卓APP，从此告别 Activity Not Found 错误和 Activity State Loss 错误](http://blog.piasy.com/2016/04/03/Safely-Android/)
 * [Google关于app设计的文档](https://www.google.com/design/spec/material-design/introduction.html)
 * [A library to format dates as described in Material Design guidelines ](https://github.com/ZieIony/NaturalDateFormat)
-* []()
+* [收藏的博客(※)](http://javatechig.com/topics/android)
 * []()
 * []()
 * []()
