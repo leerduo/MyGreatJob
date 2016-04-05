@@ -833,6 +833,17 @@
 * [Android Material Icon Generator(※)](http://bitdroid.de/Android-Material-Icon-Generator/)
 
 
+> * 四月五号
 
-
-
+* [Configuring Android Studio(※)](https://medium.com/google-developer-experts/configuring-android-studio-4aa4f54f1153#.9zom6gkqc)
+* [Android SQLite support library](https://github.com/requery/sqlite-android)
+* [Android Fragment Transactions & Activity State Loss(译)](http://jaredlam.github.io/blog/2015/12/23/android-fragment-transactions-and-activity-state-loss-yi/)
+* [打造鲁棒的安卓APP，从此告别 Activity Not Found 错误和 Activity State Loss 错误](http://blog.piasy.com/2016/04/03/Safely-Android/)
+* [Google关于app设计的文档](https://www.google.com/design/spec/material-design/introduction.html)
+* [A library to format dates as described in Material Design guidelines ](https://github.com/ZieIony/NaturalDateFormat)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
