@@ -849,9 +849,9 @@
 
 * [Reactive caching library for Android and Java](https://github.com/VictorAlbertos/RxCache)
 * [android powerful picture picker](https://github.com/ValuesFeng/AndroidPicturePicker)
-* []()
-* []()
-* []()
+* [Horizon - Simple visual equaliser for Android](https://github.com/Yalantis/Horizon)
+* [Turn markdown docs into beautiful sites https://appbaseio.github.io/Docbase](https://github.com/appbaseio/Docbase)
+* [自定义View学习案例&ProgressWheel(※)](https://github.com/Todd-Davies/ProgressWheel)
 * []()
 * []()
 * []()
