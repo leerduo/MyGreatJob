@@ -852,13 +852,17 @@
 * [Horizon - Simple visual equaliser for Android](https://github.com/Yalantis/Horizon)
 * [Turn markdown docs into beautiful sites https://appbaseio.github.io/Docbase](https://github.com/appbaseio/Docbase)
 * [自定义View学习案例&ProgressWheel(※)](https://github.com/Todd-Davies/ProgressWheel)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
 
 
-
+> * 四月七号
+* `签到`
+* [Android架构合集&推荐(※)](https://github.com/Juude/Awesome-Android-Architecture)
+* [可以通过进程名字获取log&推荐(※)](https://github.com/JakeWharton/pidcat/)
+* [reverse engineering tools for android(android 逆向工程工具集)&推荐(※)](https://github.com/Juude/droidReverse)
+* [Android performance optimization tutorials, videos and tools list(Android性能优化视频，文档以及工具)&推荐(※)](https://github.com/Juude/awesome-android-performance)
+* [最全的资源教程-前端涉及的所有知识体系
+](https://github.com/AutumnsWind/Front-end-tutorial)
+* [Canvas实时绘制音乐波形图](https://github.com/north2014/A-MusicView)
+* [仿最美应用的琴键控件](https://github.com/north2014/PianoView)
+* [小红书视差动画](https://github.com/w446108264/XhsWelcomeAnim)
+* []()
