@@ -881,7 +881,7 @@
 * [Material Intro View is a showcase android library.&使用&推荐&待学习(※)](https://github.com/iammert/MaterialIntroView)
 * [Floating Action Button for Android based on Material Design specification](https://github.com/futuresimple/android-floating-action-button)
 * [Quick solutions for Floating Action Button，RapidFloatingActionButton（RFAB）](https://github.com/wangjiegulu/RapidFloatingActionButton)
-* []()
+* [查看ppt](https://speakerdeck.com/search?utf8=%E2%9C%93&q=Android)
 * []()
 
 
