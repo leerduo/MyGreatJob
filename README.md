@@ -870,15 +870,15 @@
 
 > * 四月八号
 * `签到`
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Navigation tab bar with colorful interactions.&使用&推荐(※)](https://github.com/DevLight-Mobile-Agency/NavigationTabBar)
+* [非常值得一看的技术网站&使用&推荐(※)](http://androidcat.com/)
+* [系统控件的自定义控件&使用&推荐(※)](https://github.com/qiujuer/Genius-Android)
+* [别人收藏的一些库](https://github.com/XXApple/AndroidLibs)
+* [Android 静态代码分析工具&使用&推荐(※)](https://github.com/noveogroup/android-check)
+* [MarkDown语法](https://github.com/LearnShare/Learning-Markdown)
+* [Material Intro View is a showcase android library.&使用&推荐&待学习(※)](https://github.com/iammert/MaterialIntroView)
+* [Floating Action Button for Android based on Material Design specification](https://github.com/futuresimple/android-floating-action-button)
+* [Quick solutions for Floating Action Button，RapidFloatingActionButton（RFAB）](https://github.com/wangjiegulu/RapidFloatingActionButton)
 * []()
 * []()
 
