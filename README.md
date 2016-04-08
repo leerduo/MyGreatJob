@@ -855,6 +855,7 @@
 
 
 > * 四月七号
+
 * `签到`
 * [Android架构合集&推荐(※)](https://github.com/Juude/Awesome-Android-Architecture)
 * [可以通过进程名字获取log&推荐(※)](https://github.com/JakeWharton/pidcat/)
@@ -869,6 +870,7 @@
 
 
 > * 四月八号
+
 * `签到`
 * [Navigation tab bar with colorful interactions.&使用&推荐(※)](https://github.com/DevLight-Mobile-Agency/NavigationTabBar)
 * [非常值得一看的技术网站&使用&推荐(※)](http://androidcat.com/)
