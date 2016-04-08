@@ -871,7 +871,7 @@
 
 > * 四月八号
 
-* `签到`
+* ~~`签到`~~
 * [Navigation tab bar with colorful interactions.&使用&推荐(※)](https://github.com/DevLight-Mobile-Agency/NavigationTabBar)
 * [非常值得一看的技术网站&使用&推荐(※)](http://androidcat.com/)
 * [系统控件的自定义控件&使用&推荐(※)](https://github.com/qiujuer/Genius-Android)
