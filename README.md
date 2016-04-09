@@ -882,8 +882,30 @@
 * [Floating Action Button for Android based on Material Design specification](https://github.com/futuresimple/android-floating-action-button)
 * [Quick solutions for Floating Action Button，RapidFloatingActionButton（RFAB）](https://github.com/wangjiegulu/RapidFloatingActionButton)
 * [查看ppt](https://speakerdeck.com/search?utf8=%E2%9C%93&q=Android)
-* []()
 
 
+> * 四月九号
+
+* ~~`签到`~~
+* [Create circular ImageView in Android in the simplest way possible.&自定义View学习案例&推荐&(※)](https://github.com/lopspower/CircularImageView)
+* [realize a beautiful circular fillable loaders to be used for splashscreen for example.&自定义View学习案例&推荐&(※)](https://github.com/lopspower/CircularFillableLoaders)
+* [CircularProgressBar&自定义View学习案例&推荐&(※)](https://github.com/Pedramrn/CircularProgressBar)
+* [CircularProgressBar&自定义View学习案例&推荐&(※)](https://github.com/lopspower/CircularProgressBar)
+* [A library that helps developers creating their Android Application with Material Design.](https://github.com/DenisMondon/material-design-library)
+* [将MD风格提升到Android5.0之前&重新定义各个控件(※)](https://github.com/rey5137/material)
+* [项目架构](https://github.com/inloop/AndroidViewModel)
+* [github pages展示个人项目主题(※)](https://github.com/jasonlong/cayman-theme)
+* [很赞的一个国外人的博客(※)](http://cyrilmottier.com/archives/)
+* [老外讲解侧滑怎么做(※)](http://cyrilmottier.com/2012/05/22/the-making-of-prixing-fly-in-app-menu-part-1/)
+* [SVG to Android VectorDrawable XML resource file http://inloop.github.io/svg2android](https://github.com/inloop/svg2android)
+* [waveview for android&自定义View学习案例&推荐&(※)](https://github.com/gelitenight/WaveView)
+* [一个老外收藏的文章](https://github.com/lopspower/BestAndroidGists)
+* [Add Header and/or Footer in your RecyclerView in the simplest way possible.&简单学习用](https://github.com/lopspower/HFRecyclerView)
+* [老外写的视差动画&简单学习用](https://github.com/prolificinteractive/ParallaxPager)
+* [This library provides a simple way to add a draggable sliding up panel (popularized by Google Music and Google Maps) to your Android application.](https://github.com/umano/AndroidSlidingUpPanel)
+* [A Material design back port of Android's CalendarView](https://github.com/prolificinteractive/material-calendarview)
+* [RxJava: Android MVVM App structure with Retrofit](https://medium.com/@manuelvicnt/rxjava-android-mvvm-app-structure-with-retrofit-a5605fa32c00#.dlg7hlx34)
+* [Android自定义View 漂亮的Checkbox&自定义View学习案例&推荐&setXfermode &(※)](http://www.jianshu.com/p/85dc6bf9ffac#)
+* [EditTag&自定义View学习案例&推荐&(※)](https://github.com/qiugang/EditTag)
 
 
