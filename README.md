@@ -932,7 +932,18 @@
 * [Custom Animations With Fragments](http://cyrilmottier.com/2014/05/20/custom-animations-with-fragments/)
 * [使用data binding , dagger2 , retrofit2和rxjava实现的，基于MVVM的知乎日报APP。](https://github.com/liuguangqiang/Idaily)
 * [A editable text with a constant text/placeholder for Android.](https://github.com/gotokatsuya/ParkedTextView)
+
+
+
+> * 四月九号
+
+* `签到`
+* [值得学习的一个app&列入学习计划(※)](https://github.com/laobie/ListenRain)
 * []()
 * []()
 * []()
-* []()
+
+
+
+
+
