@@ -937,12 +937,23 @@
 
 > * 四月九号
 
-* `签到`
+* ~~`签到`~~
 * [值得学习的一个app&列入学习计划(※)](https://github.com/laobie/ListenRain)
+* [很赞的一个效果](https://github.com/DavidWangTM/DWPrivateTrainerAnimation)
+* [插件化总结](https://github.com/kaedea/android-dynamical-loading)
+* [气泡式上下文菜单，用于列表长按弹出的横向气泡式菜单列表](https://github.com/shangmingchao/PopupList)
+* [很赞的社区](http://mobdevgroup.com/platform/android/resources)
+* [It is a custom view implementation in Android to showcase the title, image, description from the URL link.](https://github.com/TakeoffAndroid/URLLinkView)
 * []()
 * []()
 * []()
-
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 
 
