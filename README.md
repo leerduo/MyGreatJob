@@ -908,7 +908,7 @@
 * [Android自定义View 漂亮的Checkbox&自定义View学习案例&推荐&setXfermode &(※)](http://www.jianshu.com/p/85dc6bf9ffac#)
 * [EditTag&自定义View学习案例&推荐&(※)](https://github.com/qiugang/EditTag)
 
-> * 四月九号
+> * 四月十号
 
 * `签到`
 * [很赞的一个国外人的博客(※)](http://hannesdorfmann.com/)
@@ -935,7 +935,7 @@
 
 
 
-> * 四月九号
+> * 四月十一号
 
 * ~~`签到`~~
 * [值得学习的一个app&列入学习计划(※)](https://github.com/laobie/ListenRain)
@@ -944,17 +944,19 @@
 * [气泡式上下文菜单，用于列表长按弹出的横向气泡式菜单列表](https://github.com/shangmingchao/PopupList)
 * [很赞的社区](http://mobdevgroup.com/platform/android/resources)
 * [It is a custom view implementation in Android to showcase the title, image, description from the URL link.](https://github.com/TakeoffAndroid/URLLinkView)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
 
 
 
+> * 四月十二号
 
+* `签到`
+* [RecyclerViewHeader](https://github.com/blipinsk/RecyclerViewHeader)
+* [third party app for androidweekly.net](https://github.com/mzule/AndroidWeekly)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
