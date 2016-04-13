@@ -943,15 +943,36 @@
 * [插件化总结](https://github.com/kaedea/android-dynamical-loading)
 * [气泡式上下文菜单，用于列表长按弹出的横向气泡式菜单列表](https://github.com/shangmingchao/PopupList)
 * [很赞的社区](http://mobdevgroup.com/platform/android/resources)
-* [It is a custom view implementation in Android to showcase the title, image, description from the URL link.](https://github.com/TakeoffAndroid/URLLinkView)
+* [It is a custom view implementation in Android to showcase the title, image, description from the URL link.&自定义View案例&列入学习计划(※)](https://github.com/TakeoffAndroid/URLLinkView)
 
 
 
 > * 四月十二号
 
-* `签到`
+* ~~`签到`~~
 * [RecyclerViewHeader](https://github.com/blipinsk/RecyclerViewHeader)
 * [third party app for androidweekly.net](https://github.com/mzule/AndroidWeekly)
+
+
+> * 四月十三号
+
+* ~~`签到`~~
+* [FaceBook的Android博客](https://code.facebook.com/android/)
+* [致力于帮助Android开发者转react-native开发](https://github.com/xujinyang/react-native-android-guide)
+* [折叠纸的效果&FoldingCell is an expanding content cell inspired by folding paper material&自定义View案例&列入学习计划(※)](https://github.com/Ramotion/folding-cell-android)
+* [卷轴的效果&自定义View案例&列入学习计划(※)](https://github.com/leerduo/reel-search-android)
+* [不错的音乐播放器(※)](https://github.com/dibakarece/DMPlayer)
+* [A library for displaying math formula in Android apps.](https://github.com/kexanie/MathView)
+* [It's a simple android File Explorer, here you can see all the internal and external file. Here I can set only choose PDF, DOC, DOCX file if exists in the file folder.](https://github.com/dibakarece/AndroidFileExplorer)
+* [This is a simple Gallery View Demo project. Which help you to learn, how to create Own Gallery App like android Gallery](https://github.com/dibakarece/OwnGalleryView)
+* [A ppt viewer library for android, which can be easily used in any existing application](https://github.com/itsrts/pptviewer-android)
+* [An Android view for displaying repeated continuous side scrolling images. This can be used to create a parallax animation effect.](https://github.com/Q42/AndroidScrollingImageView)
+* [Chips in your AutoCompleteTextView on Android&自定义View案例&列入学习计划(※)](https://github.com/klinker41/android-chips)
+* [固定头部的表格布局&Android library that implements a table with fixed headers.](https://github.com/InQBarna/TableFixHeaders)
+* [socket client 简易封装](https://github.com/vilyever/AndroidSocketClient)
+* [针对<Android 项目利用 Android Studio 和 Gradle 打包多版本APK>所提供的demo](https://github.com/ChinaSunHZ/GradleBuildMultipleVersionAPK)
+* [LicensesDialogLibrary](https://github.com/Wicowyn/LicensesDialogLibrary)
+* [Bringing extended scrolling features to Android's native ListView and ExpandableListView.&自定义View案例&列入学习计划(※)](https://github.com/andraskindler/quickscroll)
 * []()
 * []()
 * []()
