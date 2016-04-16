@@ -1006,6 +1006,13 @@
 * [CardSlidePanel&SwipeCard](https://github.com/taoliuh/CardSlidePanel)
 * [ViewPagerHeaderScrollDemo](https://github.com/ongakuer/ViewPagerHeaderScrollDemo)
 * [Modifies launcher icons on debug build&列入学习计划(※)](https://github.com/gfx/gradle-android-ribbonizer-plugin)
+
+
+> * 四月十六号
+
+* `签到`
+* [国外的一个开发者的博客](http://www.fasteque.com/)
+* [AppLaunchChecker – a first quick analysis&待读文章](http://www.fasteque.com/applaunchchecker-a-first-quick-analysis/)
 * []()
 * []()
 * []()
@@ -1022,3 +1029,18 @@
 * []()
 * []()
 * []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+
