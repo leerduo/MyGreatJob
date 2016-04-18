@@ -1013,10 +1013,23 @@
 * `签到`
 * [国外的一个开发者的博客](http://www.fasteque.com/)
 * [AppLaunchChecker – a first quick analysis&待读文章](http://www.fasteque.com/applaunchchecker-a-first-quick-analysis/)
-* []()
-* []()
-* []()
-* []()
+
+
+> * 四月十七号
+
+* ~~`签到`~~
+* MVP的demo编写
+* Retrofit的demo编写
+* dagger2的demo编写
+
+> * 四月十八号
+
+* ~~`签到`~~
+
+* [一款加载动画，不同的物体加速下落砸到了文字上，文字逞阻尼效果，向下弯曲并像橡皮筋一样弹动回去的效果&挺不错的效果](https://github.com/Huyamin150/-dampView-springingView)
+* [LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable)
+* [floatingsearchview&A search view that implements a floating search bar also known as persistent search](https://github.com/arimorty/floatingsearchview)
+* [An Android Cloud Tag Widget. You can edit the tag's style, and set listener of selecting or deleting tag.](https://github.com/kaedea/Android-Cloud-TagView-Plus)
 * []()
 * []()
 * []()
