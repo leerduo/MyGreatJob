@@ -1047,6 +1047,24 @@
 * [ProperRatingBar](https://github.com/techery/ProperRatingBar)
 * [AdvancedPagerSlidingTabStrip](https://github.com/HomHomLin/AdvancedPagerSlidingTabStrip)
 * [这个效果不错&待看](https://github.com/binglingziyu/OwlView)
+* HeadFirstAndroid阅读，复习基础
+
+
+> * 四月二十号
+
+* ~~`签到`~~
+* [Android library that simplifies the process of requesting permissions at runtime. http://karumi.com](https://github.com/Karumi/Dexter)
+* [Rosie is an Android framework to create applications following the principles of Clean Architecture.](https://github.com/Karumi/Rosie)
+* [DragListView&DragSortListView&支持拖拽排序的DragSortListView&DragSortGridView](https://github.com/woxblom/DragListView)
+* [ataContacts written in Java. The main goal is to practice Clean Architecture Development.](https://github.com/Karumi/KataContactsJava)
+* [WaveInApp&wave&音乐播放器(※)](https://github.com/Cleveroad/WaveInApp)
+* [不错的动画&待学习(※)](https://github.com/Cleveroad/MusicBobber)
+* [不错的动画&待学习(※)](https://github.com/Cleveroad/CRAndroidMBootAnimationView)
+* [APKParser](https://github.com/jaredrummler/APKParser)
+* [A library helps Android built-in views easy and convenient to set round rectangle background and accordingly related shape resources can be reduced. 一个扩展原生控件支持圆角矩形框背景的库,可以减少相关shape资源文件使用.](https://github.com/H07000223/FlycoRoundView)
+* [FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout)
+* [Command-line tool to count per-package methods in Android .dex files](https://github.com/mihaip/dex-method-counts)
+* [Bingo是一款IT阅读学习类的开源软件，在不久的将来会拥有丰富的学习内容，推荐您也来用用来看看，在这里您也可以发布好的干货链接文章。 https://fir.im/Bingo](https://github.com/sfsheng0322/Bingo)
 * []()
 * []()
 * []()
@@ -1061,3 +1079,6 @@
 * []()
 * []()
 * []()
+* []()
+* []()
+
