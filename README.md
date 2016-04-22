@@ -1069,21 +1069,25 @@
 
 > * 四月二十一号
 
-* ~~`签到`~~
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* `签到`
+
+> * 四月二十二号
+
+* `签到`
+* [LeafPic is an ad-free, open-source and material-designed android gallery alternative](https://github.com/HoraApps/LeafPic)
+* [This library is a set of simple wrapper classes that are aimed to help you easily create fancy material dialogs.](https://github.com/yarolegovich/LovelyDialog)
+* [A very convenient and powerful flow layout by Lan&FlowLayout(※)](https://github.com/lankton/android-flowlayout)
+* [A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations. http://square.github.io/sqlbrite/0.x/sqlbrite/index.html](https://github.com/square/sqlbrite)
+* [Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more. http://facebook.github.io/stetho/](https://github.com/facebook/stetho)
+* [学习Android架构的文章(※)](https://github.com/ribot/ribot-app-android)
+* [github的api(※)](https://developer.github.com/v3/)
+* [monkey android is a GitHub third party client, show the rank of users and repositories,trending. Base on Material Design,use MVP pattern](https://github.com/yeungeek/monkey-android)
+* [知乎日报](https://github.com/cundong/ZhihuPaper)
+* [更改官方的Launcher3使得可以在Android Studio编译 http://www.fookwood.com/android](https://github.com/fookwood/Launcher3)
+* [awesome android person](https://github.com/yeungeek/awesome-android-person)
+* [Gradle Plugin User Guide中文版 http://tools.android.com/tech-docs/new-build-system/user-guide](https://github.com/yeungeek/GradlePlugin_UserGuide)
+* [适用于Java和Android的快速、低内存占用的汉字转拼音库。](https://github.com/promeG/TinyPinyin)
+* [干货集中营客户端](https://github.com/GcsSloop/Gank)
 * []()
 * []()
 * []()
