@@ -1088,7 +1088,7 @@
 * [Gradle Plugin User Guide中文版 http://tools.android.com/tech-docs/new-build-system/user-guide](https://github.com/yeungeek/GradlePlugin_UserGuide)
 * [适用于Java和Android的快速、低内存占用的汉字转拼音库。](https://github.com/promeG/TinyPinyin)
 * [干货集中营客户端](https://github.com/GcsSloop/Gank)
-* []()
+* [Android换肤技术总结 ](http://blog.zhaiyifan.cn/2015/09/10/Android%E6%8D%A2%E8%82%A4%E6%8A%80%E6%9C%AF%E6%80%BB%E7%BB%93/)
 * []()
 * []()
 * []()
