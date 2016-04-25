@@ -1089,6 +1089,25 @@
 * [适用于Java和Android的快速、低内存占用的汉字转拼音库。](https://github.com/promeG/TinyPinyin)
 * [干货集中营客户端](https://github.com/GcsSloop/Gank)
 * [Android换肤技术总结 ](http://blog.zhaiyifan.cn/2015/09/10/Android%E6%8D%A2%E8%82%A4%E6%8A%80%E6%9C%AF%E6%80%BB%E7%BB%93/)
+
+
+> * 四月二十三号
+
+* ~~`签到`~~
+
+> * 四月二十四号
+
+* ~~`签到`~~
+* StudyJams成功结业
+
+> * 四月二十四号
+
+* `签到`
+* [ReadMoreTextView&自定义View案例&列入学习计划(※)](https://github.com/borjabravo10/ReadMoreTextView)
+* [压缩&解压](https://github.com/hzy3774/AndroidP7zip)
+* [advancedrecyclerview&RecyclerView的高级玩法(※)](https://github.com/h6ah4i/android-advancedrecyclerview)
+* [FragmentAnimations](https://github.com/kakajika/FragmentAnimations)
+* [Let's learn a new technology every week. A new technology blog every Sunday in 2016.](https://github.com/shekhargulati/52-technologies-in-2016)
 * []()
 * []()
 * []()
@@ -1106,3 +1125,18 @@
 * []()
 * []()
 * []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+
+
+
