@@ -1100,7 +1100,7 @@
 * ~~`签到`~~
 * StudyJams成功结业
 
-> * 四月二十四号
+> * 四月二十五号
 
 * `签到`
 * [ReadMoreTextView&自定义View案例&列入学习计划(※)](https://github.com/borjabravo10/ReadMoreTextView)
@@ -1111,32 +1111,40 @@
 * [SwipeLayout(※)](https://github.com/chthai64/SwipeRevealLayout)
 * [Android平台利用ping和traceroute的原理，对指定域名（通常为后台API的提供域名）进行网络诊断，并收集诊断日志](https://github.com/Lede-Inc/LDNetDiagnoService_Android)
 * [博客资源](http://zjutkz.net/)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
 
 
+> * 四月二十六号
 
+* `签到`
+* 论文查重
+
+
+> * 四月二十七号
+
+* `签到`
+* [An Android Widget for selecting items that rotate on a wheel.&自定义View案例&列入学习计划(※)](https://github.com/BCsl/CursorWheelLayouta)
+* [ViewDragHelperDemo](https://github.com/BCsl/ViewDragHelperDemo)
+* [StickyHeaderListView&&列入学习计划(※)](https://github.com/sfsheng0322/StickyHeaderListView)
+* [不错的个人博客](http://sunfusheng.com/android/%E5%B7%A5%E4%BD%9C/2016/03/31/huijiachifan-user.html)
+* [Bingo是一款IT阅读学习类的开源软件，在不久的将来会拥有丰富的学习内容，推荐您也来用用来看看，在这里您也可以发布好的干货链接文章。 https://fir.im/Bingo&列入学习计划(※)(※)](https://github.com/sfsheng0322/Bingo)
+* [GankDaily&列入学习计划(※)(※)](https://github.com/maoruibin/GankDaily)
+* [列入学习计划(※)(※)](https://github.com/tangqi92/BuildingBlocks)
+* [视差动画ViewPager](https://github.com/sacot41/SCViewPager)
+* [A demo show how to use Retrofit with Rxjava(※)(※)](https://github.com/tough1985/RxjavaRetrofitDemo)
+* [RxJava入门](https://github.com/cn-ljb/rxjava_for_android)
+* [快速开发框架](https://github.com/TommyLemon/Android-ZBLibrary)
+* [&自定义View案例&列入学习计划(※)](https://github.com/blipinsk/FlippableStackView)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
