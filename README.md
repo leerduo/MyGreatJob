@@ -1134,6 +1134,16 @@
 * [RxJava入门](https://github.com/cn-ljb/rxjava_for_android)
 * [快速开发框架](https://github.com/TommyLemon/Android-ZBLibrary)
 * [&自定义View案例&列入学习计划(※)](https://github.com/blipinsk/FlippableStackView)
+
+
+
+> * 四月二十七号
+
+* `签到`
+* `体检一切完好`
+* [Multidex解决方法数越界](http://xybcoder.github.io/2016/04/27/Multidex%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95%E6%95%B0%E8%B6%8A%E7%95%8C/)
+* [依赖注入学习指南](https://lber19535.github.io/2016/04/22/%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97/)
+* [AndroidStudio的使用技巧(※)](https://github.com/pavlospt/Android-Studio-Tips-by-Philippe-Breault)
 * []()
 * []()
 * []()
@@ -1148,3 +1158,32 @@
 * []()
 * []()
 * []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+
+
+
+
