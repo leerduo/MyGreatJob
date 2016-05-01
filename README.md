@@ -1157,6 +1157,15 @@
 * [ProgressPieView&自定义View案例&列入学习计划(※)](https://github.com/FilipPudak/ProgressPieView)
 * [ 封装了okhttp的网络框架，支持大文件上传下载，上传进度回调，下载进度回调，表单上传（多文件和多参数一起上传），链式调用，可以自定义返回对象，支持Https和自签名证书，支持cookie自动管理，支持四种缓存模式缓存网络数据，支持301重定向，扩展了统一的上传管理和下载管理功能](https://github.com/jeasonlzy0216/OkHttpUtils)
 * [AudioWaves&自定义View案例&列入学习计划(※)](https://github.com/FireZenk/AudioWaves)
+
+
+
+> * 四月三十号
+
+* `签到`
+* [MaterialDateRangePicker&Material风格的日期时间选择范围&自定义View案例&列入学习计划(※)](https://github.com/borax12/MaterialDateRangePicker)
+* [GifLoadingView](https://github.com/Rogero0o/GifLoadingView)
+* [MaterialLoadingProgressBar&自定义View案例&列入学习计划(※)](https://github.com/lsjwzh/MaterialLoadingProgressBar)
 * []()
 * []()
 * []()
@@ -1186,6 +1195,8 @@
 * []()
 * []()
 * []()
-* []()
-* []()
-* []()
+
+
+
+
+
