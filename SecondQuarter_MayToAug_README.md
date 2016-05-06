@@ -13,7 +13,7 @@
 * [android 悬浮窗菜单，可在launcher或app中使用](https://github.com/crosg/FloatMenuSample)
 * [基于React Native构建的仿京东客户端](https://github.com/yuanguozheng/JdApp)
 * [RecyclerViewDivider](https://github.com/yqritc/RecyclerView-FlexibleDivider)
-* []()
+* [Understanding Android/Java Processes and Threads Related Concepts (Handlers, Runnables, Loopers, MessageQueue, HandlerThread)](http://codetheory.in/android-handlers-runnables-loopers-messagequeue-handlerthread/)
 * []()
 * []()
 * []()
