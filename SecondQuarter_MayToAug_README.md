@@ -4,10 +4,10 @@
 
 * `签到`
 * `准备答辩事宜`
-* []()
-* []()
-* []()
-* []()
+* [A 3D Touch API for Android](https://github.com/DevelopersOfCydonia/FreeDTouch)
+* [An easy to use swiping-view for Android](https://github.com/Meetic/Shuffle)
+* [An MVP Dribbble client for Android Mobile](https://github.com/hitherejoe/Bourbon)
+* [FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android.&`待学习`&Google](https://github.com/google/flexbox-layout)
 * []()
 * []()
 * []()
