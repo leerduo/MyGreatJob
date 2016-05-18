@@ -3,6 +3,12 @@
 > * 五月十七号
 
 * `签到`
+* gradle通过`productFlavors`进行版本差异控制
+
+
+> * 五月十七号
+
+* `签到`
 * [视差动画引导页](https://github.com/Ramotion/paper-onboarding-android)
 * [相同的业务逻辑需要在iOS和 Android平台各实现一次，除了开发成本高，也会引入体验的细微差别。是否有一种技术方案可以做到一份代码，两个平台运行，行为相同 ？移动 APP 开发领域，要极致体验发布就不灵活（Native），要灵活发布就没有极致体验（H5）。有没有一种技术方案可以兼顾极致的体验和灵活的发布？LuaView 可以完美解决上述两个问题](https://github.com/alibaba/LuaViewSDK)
 * [NavigationTabStrip](https://github.com/DevLight-Mobile-Agency/NavigationTabStrip)
