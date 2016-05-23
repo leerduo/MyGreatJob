@@ -1,5 +1,12 @@
 # 五月份
 
+> * 五月二十号~五月二十三号
+* `签到`
+* 结束RxJava
+* 跑步计划移到[RunningRecord](https://github.com/leerduo/RunningRecord)这个库下
+
+
+
 > * 五月十九号
 
 * `签到`
