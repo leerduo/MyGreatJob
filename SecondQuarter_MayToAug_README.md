@@ -1,6 +1,18 @@
 # 五月份
 
+> * 五月二十四号~五月三十一号
+
+* `签到`
+* [支持多进程的SharedPreferences&a SharedPreferences replacement for Android with multiprocess support](https://github.com/grandcentrix/tray)
+* [前端资源大汇总&学习前端的资源](https://github.com/JacksonTian/fks)
+* [沉浸式状态栏&状态栏](https://github.com/H07000223/FlycoSystemBar)
+* [scripts for android development(Android开发用脚本)](https://github.com/Juude/droidScripts)
+* [some android image filters](https://github.com/ragnraok/android-image-filter)
+* [不错的拖拽效果](https://github.com/xmuSistone/android-drag-square)
+
+
 > * 五月二十号~五月二十三号
+
 * `签到`
 * 结束RxJava
 * 跑步计划移到[RunningRecord](https://github.com/leerduo/RunningRecord)这个库下
