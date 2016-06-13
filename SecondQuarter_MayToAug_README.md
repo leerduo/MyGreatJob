@@ -1,9 +1,6 @@
 # 五月份
 
-> * 六月一号~六月十二号
 
-* `签到`
-* `办理离校手续`
 
 > * 六月十三号
 
@@ -22,6 +19,11 @@
 * [HorizontalWheelView](https://github.com/shchurov/HorizontalWheelView)
 * [安卓动态调试七种武器](https://github.com/zhengmin1989/TheSevenWeapons)
 * [单手操作图片控件 镜像、置顶、缩放、移动&很赞的效果](https://github.com/nimengbo/StickerView)
+
+> * 六月一号~六月十二号
+
+* `签到`
+* `办理离校手续`
 
 
 > * 五月二十四号~五月三十一号
