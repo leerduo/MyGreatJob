@@ -1,5 +1,29 @@
 # 五月份
 
+> * 六月一号~六月十二号
+
+* `签到`
+* `办理离校手续`
+
+> * 六月十三号
+
+* `签到`
+* [Default colors and dimens per Material Design guidelines and Android Design guidelines inside one library.](https://github.com/DmitryMalkovich/material-design-dimens)
+* [一个完整的app&老外写的](https://github.com/Jawnnypoo/open-meh)
+* [一个支持多种状态的自定义View,可以方便的切换到：加载中视图、错误视图、空数据视图、网络异常视图、内容视图。](https://github.com/qyxxjd/MultipleStatusView)
+* [LoadingLayout](https://github.com/lzyzsd/LoadingLayout)
+* [A expandable Layout to save space and reduce jump between Activity and Fragment](https://github.com/SilenceDut/ExpandableLayout)
+* [material-dialogs](https://github.com/afollestad/material-dialogs)
+* [WaveSideBar](https://github.com/Solartisan/WaveSideBar)
+* [一个曲线的动画效果，圆点在曲线上平滑移动，指示牌根据圆点的位置自动调整显示位置](https://github.com/DrJia/curveAnim)
+* [仿蜻蜓FM轮播banner](https://github.com/JeasonWong/QingtingBannerView)
+* [AndroidPhotoFilters aims to provide fast, powerful and flexible image processing instrument for creating awesome effects on any image media.](https://github.com/Zomato/AndroidPhotoFilters)
+* [CircleProgressBar](https://github.com/dinuscxj/CircleProgressBar)
+* [HorizontalWheelView](https://github.com/shchurov/HorizontalWheelView)
+* [安卓动态调试七种武器](https://github.com/zhengmin1989/TheSevenWeapons)
+* [单手操作图片控件 镜像、置顶、缩放、移动&很赞的效果](https://github.com/nimengbo/StickerView)
+
+
 > * 五月二十四号~五月三十一号
 
 * `签到`
