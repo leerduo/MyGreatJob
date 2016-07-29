@@ -1,5 +1,9 @@
 # 七月份
 
+> * 七月二十九号
+
+* [学习笔记](https://github.com/GeniusVJR/LearningNotes)
+
 > * 七月十号
 
 * [DiscreteSlider滑竿控件&学习自定义控件](https://github.com/lawloretienne/DiscreteSlider)
